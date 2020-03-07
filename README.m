@@ -1,1 +1,1 @@
-# wyq-blog.github.ios
+wyq-blog.github.io
